@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "crypto": "COINBASE:LTCUSD"
+  },
+  {
+    "id": 2,
+    "crypto": "BITFINEX:DOGEUSD"
+  },
+  {
+    "id": 3,
+    "crypto": "BITSTAMP:BCHUSD"
+  }
+]
